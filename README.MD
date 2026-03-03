@@ -6,7 +6,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 Este repositório está organizado em três níveis:
 
-1. **`Soluções/`** - Soluções de exercícios de contests organizadas por temática e/ou competição
+1. **`Soluções/`** - Soluções de exercícios de programação organizadas por temática e/ou competição
    - Diversas subpastas com o enunciado dos problema e suas respectivas soluções
 
 2. **`Log/`** - Resultados de competições
