@@ -7,7 +7,7 @@ Este diretório contém as soluções dos problemas resolvidos durante a discipl
 As soluções estão organizadas em subpastas por temática ou competição específica:
 
 ```
-solutions/
+Soluções/
 ├── [nome-da-competição-ou-tema]/
 │   ├── README.md          
 │   ├── problema-a.cpp     
