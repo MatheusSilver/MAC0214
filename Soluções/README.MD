@@ -9,7 +9,6 @@ As soluções estão organizadas em subpastas por temática ou competição espe
 ```
 Soluções/
 ├── [nome-da-competição-ou-tema]/
-│   ├── README.md          
 │   ├── problema-a.cpp     
 │   ├── problema-b.cpp     
 │   └── ...
