@@ -15,4 +15,4 @@ public:
         int answer = index == -1 ? -1 : nums[index];
         return answer;
     }
-};©leetcode
+};
