@@ -14,7 +14,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
-## 21/03: [Beginner Contest 450](https://atcoder.jp/contests/abc450) - 1:40 horas
+
+## 28/03: [Biweekly Contest 179](https://leetcode.com/contest/biweekly-contest-179/) - 1:30 horas
 
 <!-- # Template para registro de atividades
 
