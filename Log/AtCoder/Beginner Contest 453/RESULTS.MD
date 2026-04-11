@@ -1,2 +1,2 @@
-# Posição: 6843
+# Posição: 6822
 # Pontuação: 600

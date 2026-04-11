@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 6:20 horas
+## Tempo total: 7:50 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -19,6 +19,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 ## 28/03: [Biweekly Contest 179](https://leetcode.com/contest/biweekly-contest-179/) - 1:30 horas
 
 ## 11/04: [Beginner Contest 453](https://atcoder.jp/contests/abc453) - 1:40 horas
+
+## 11/04: [Biweekly Contest 180](https://leetcode.com/contest/biweekly-contest-180/) - 1:30 horas
 
 <!-- # Template para registro de atividades
 
