@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 11:50 horas
+## Tempo total: 14:50 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -29,6 +29,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 ## 15/04: [CSES-1633](https://cses.fi/problemset/task/1633) - 1:00 hora
 
 ## 15/04: [CSES-1635](https://cses.fi/problemset/task/1635) - 1:00 hora
+
+## 15/04: [CSES-1636](https://cses.fi/problemset/task/1636) - 1:00 hora
+
+## 15/04: [CSES-2413](https://cses.fi/problemset/task/2413) - 1:00 hora
+
+## 15/04: [CSES-1746](https://cses.fi/problemset/task/1746) - 1:00 hora
 
 <!-- # Template para registro de atividades
 
