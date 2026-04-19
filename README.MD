@@ -36,6 +36,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 15/04: [CSES-1746](https://cses.fi/problemset/task/1746) - 1:00 hora
 
+## 19/04: [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) - 1:00 hora
+
+## 19/04: [Mediam Sum](https://atcoder.jp/contests/agc020/tasks/agc020_c) - 1:00 hora
+
+## 19/04: [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) - 1:00 hora
+
 <!-- # Template para registro de atividades
 
 ### dia/mês: [Nome da competição](link_da_competição) - {tempo dedicado} horas
