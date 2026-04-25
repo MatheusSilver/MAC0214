@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 19:50 horas
+## Tempo total: 21:20 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -83,6 +83,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Temática e dificuldade: Programação Dinâmica em duas sequências - médio
 
 ## 21/04: [Educational Codeforces Round 189](https://codeforces.com/contests/2225) - 2:00 horas
+
+## 25/04: [Biweekly Contest 181](https://leetcode.com/contest/biweekly-contest-181/) - 1:30 horas
 
 <!-- # Template para registro de atividades
 
