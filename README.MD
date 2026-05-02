@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 28:50 horas
+## Tempo total: 30:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -89,6 +89,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 ## 26/04: [Seletiva USP](https://codeforces.com/gym/688480) - 5:00 horas
 
 ## 30/04: [Codeforces Round 1096](https://codeforces.com/contests/2227) - 2:00 horas
+
+## 01/05: [Beginner Contest 456](https://atcoder.jp/contests/abc456) - 1:40 horas
 
 <!-- # Template para registro de atividades
 
