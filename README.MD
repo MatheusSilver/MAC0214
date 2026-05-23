@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 47:00 horas
+## Tempo total: 48:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -183,6 +183,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Linked List Cycle](Soluções/LeetCode/Grafos/Linked%20List%20Cycle/solution.cpp)
 - Enunciado: [Online](https://leetcode.com/problems/linked-list-cycle/) | [PDF](Soluções/LeetCode/Grafos/Linked%20List%20Cycle/LeetCode%20141%20-%20Linked%20List%20Cycle.pdf)
 - Temática e dificuldade: Grafos (detecção de ciclo com two-pointers) - fácil
+
+## 23/05: [Biweekly Contest 183](https://leetcode.com/contest/biweekly-contest-183/) - 1:30 horas
 
 <!-- # Template para registro de atividades
 
