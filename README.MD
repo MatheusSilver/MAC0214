@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 48:30 horas
+## Tempo total: 50:00 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -185,6 +185,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Temática e dificuldade: Grafos (detecção de ciclo com two-pointers) - fácil
 
 ## 23/05: [Biweekly Contest 183](https://leetcode.com/contest/biweekly-contest-183/) - 1:30 horas
+
+## 23/05: [Weekly Contest 503](https://leetcode.com/contest/weekly-contest-503/) - 1:30 horas
 
 <!-- # Template para registro de atividades
 
