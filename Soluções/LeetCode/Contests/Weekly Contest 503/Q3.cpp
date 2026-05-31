@@ -60,4 +60,4 @@ public:
 
         return (counter == 40028922 ? -1 : counter);
     }
-};©leetcode
+};
