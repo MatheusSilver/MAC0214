@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 53:30 horas
+## Tempo total: 55:00 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -201,6 +201,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [LCS](Soluções/CodeForces/Busca/MUH%20and%20Cube%20Walls/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/problemset/problem/471/D) | [PDF](Soluções/CodeForces/Busca/MUH%20and%20Cube%20Walls/Problem%20-%20471D%20-%20Codeforces.pdf)
 - Temática e dificuldade: Busca de Padrões e Knuth-Morris-Pratt - Médio
+
+## 06/06: [Biweekly Contest 184](https://leetcode.com/contest/biweekly-contest-184/) - 1:30 horas
 
 
 <!-- # Template para registro de atividades
