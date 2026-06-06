@@ -190,6 +190,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 30/05: [Weekly Contest 504](https://leetcode.com/contest/weekly-contest-504/) - 1:30 horas
 
+## 06/06: [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) - 1:00 hora
+
+- Solução: [LCS](Soluções/AtCoder/Busca/LCS/solution.cpp)
+- Enunciado: [Online](https://atcoder.jp/contests/dp/tasks/dp_f) | [PDF](Soluções/AtCoder/Busca/LCS/F%20-%20LCS.pdf)
+- Temática e dificuldade: Busca e Programação Dinâmica linear - Médio
+
 <!-- # Template para registro de atividades
 
 ### dia/mês: [Nome da competição](link_da_competição) - {tempo dedicado} horas
