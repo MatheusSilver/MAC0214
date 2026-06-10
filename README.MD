@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 55:30 horas
+## Tempo total: 56:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -209,6 +209,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [LCS](LeetCode/Busca/Find%20K%20Pairs%20with%20Smallest%20Sums/solution.cpp)
 - Enunciado: [Online](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [PDF](LeetCode/Busca/Find%20K%20Pairs%20with%20Smallest%20Sums/Find%20K%20Pairs%20with%20Smallest%20Sums%20-%20LeetCode.pdf)
 - Temática e dificuldade: Busca e Ordenação - Priority Queue - médio
+
+## 10/06: [CSES-1111](https://cses.fi/problemset/task/1111/) - 1:00 hora
+
+- Solução: [Book Shop](Soluções/CSES/Busca/Longest%20Palindrome/solution.cpp)
+- Enunciado: [Online](https://cses.fi/problemset/task/1111/) | [PDF](Soluções/CSES/Busca/Longest%20Palindrome/CSES%20-%20Longest%20Palindrome.pdf)
+- Temática e dificuldade: Busca em Strings - fácil
 
 
 <!-- # Template para registro de atividades
