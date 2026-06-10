@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 59:30 horas
+## Tempo total: 60:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -233,6 +233,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Finding Periods](Soluções/CSES/Busca/Finding%20Periods/solution.cpp)
 - Enunciado: [Online](https://cses.fi/problemset/task/1732/) | [PDF](Soluções/CSES/Busca/Finding%20Periods/CSES%20-%20Finding%20Periods.pdf)
 - Temática e dificuldade: Busca e KMP - fácil
+
+## 10/06: [CSES-1753](https://cses.fi/problemset/task/1753/) - 1:00 hora
+
+- Solução: [String Matching](Soluções/CSES/Busca/String%20Matching/solution.cpp)
+- Enunciado: [Online](https://cses.fi/problemset/task/1753/) | [PDF](Soluções/CSES/Busca/String%20Matching/CSES%20-%20String%20Matching.pdf)
+- Temática e dificuldade: Busca e KMP - Médio
 
 <!-- # Template para registro de atividades
 
