@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 57:30 horas
+## Tempo total: 58:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -212,7 +212,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 10/06: [CSES-1111](https://cses.fi/problemset/task/1111/) - 1:00 hora
 
-- Solução: [Book Shop](Soluções/CSES/Busca/Longest%20Palindrome/solution.cpp)
+- Solução: [Longest Palindrome](Soluções/CSES/Busca/Longest%20Palindrome/solution.cpp)
 - Enunciado: [Online](https://cses.fi/problemset/task/1111/) | [PDF](Soluções/CSES/Busca/Longest%20Palindrome/CSES%20-%20Longest%20Palindrome.pdf)
 - Temática e dificuldade: Busca em Strings - fácil
 
@@ -221,6 +221,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Expression Correction](Soluções/CodeForces/Busca/Expression%20Correction/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/2052/problem/E) | [PDF](Soluções/CodeForces/Busca/Expression%20Correction/Problem%20-%20E%20-%20Codeforces.pdf)
 - Temática e dificuldade: Força Bruta e  Busca em strings - médio
+
+## 10/06: [CSES-1732](https://cses.fi/problemset/task/1732/) - 1:00 hora
+
+- Solução: [Finding Borders](Soluções/CSES/Busca/Finding%20Borders/solution.cpp)
+- Enunciado: [Online](https://cses.fi/problemset/task/1732/) | [PDF](Soluções/CSES/Busca/Finding%20Borders/CSES%20-%20Finding%20Borders.pdf)
+- Temática e dificuldade: Array de sufixos - fácil
 
 <!-- # Template para registro de atividades
 
