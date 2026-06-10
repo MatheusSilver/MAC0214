@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 61:30 horas
+## Tempo total: 62:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -245,6 +245,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Expression Correction](Soluções/CodeForces/Busca/War%20of%20the%20Corporations/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/625/problem/B) | [PDF](Soluções/CodeForces/Busca/War%20of%20the%20Corporations/Problem%20-%20B%20-%20Codeforces.pdf)
 - Temática e dificuldade: Algoritimos Gulosos e  KMP - médio
+
+## 10/06: [CSES-2103](https://cses.fi/problemset/task/2103/) - 1:00 hora
+
+- Solução: [Counting Patterns](Soluções/CSES/Busca/Counting%20Patterns/solution.cpp)
+- Enunciado: [Online](https://cses.fi/problemset/task/2103/) | [PDF](Soluções/CSES/Busca/Counting%20Patterns/CSES%20-%20Counting%20Patterns.pdf)
+- Temática e dificuldade: Busca de padrões e Grafos - Difícil
 
 <!-- # Template para registro de atividades
 
