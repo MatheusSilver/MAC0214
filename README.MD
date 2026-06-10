@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 62:30 horas
+## Tempo total: 63:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -251,6 +251,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Counting Patterns](Soluções/CSES/Busca/Counting%20Patterns/solution.cpp)
 - Enunciado: [Online](https://cses.fi/problemset/task/2103/) | [PDF](Soluções/CSES/Busca/Counting%20Patterns/CSES%20-%20Counting%20Patterns.pdf)
 - Temática e dificuldade: Busca de padrões e Grafos - Difícil
+
+## 10/06: [CF 432D - Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - 1:00 hora
+
+- Solução: [Expression Correction](Soluções/CodeForces/Busca/Prefixes%20and%20Suffixes/solution.cpp)
+- Enunciado: [Online](https://codeforces.com/contest/432/problem/D) | [PDF](Soluções/CodeForces/Busca/Prefixes%20and%20Suffixes/Problem%20-%20432D%20-%20Codeforces.pdf)
+- Temática e dificuldade: Busca por prefixos e  KMP - médio
 
 <!-- # Template para registro de atividades
 
