@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 56:30 horas
+## Tempo total: 57:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -216,6 +216,11 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Enunciado: [Online](https://cses.fi/problemset/task/1111/) | [PDF](Soluções/CSES/Busca/Longest%20Palindrome/CSES%20-%20Longest%20Palindrome.pdf)
 - Temática e dificuldade: Busca em Strings - fácil
 
+## 10/06: [CF 2052E - Expression Correction](https://codeforces.com/contest/2052/problem/E) - 1:00 hora
+
+- Solução: [Expression Correction](Soluções/CodeForces/Busca/Expression%20Correction/solution.cpp)
+- Enunciado: [Online](https://codeforces.com/contest/2052/problem/E) | [PDF](Soluções/CodeForces/Busca/Expression%20Correction/Problem%20-%20E%20-%20Codeforces.pdf)
+- Temática e dificuldade: Força Bruta e  Busca em strings - médio
 
 <!-- # Template para registro de atividades
 
