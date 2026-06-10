@@ -242,7 +242,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 10/06: [CF 625B - War of the Corporations](https://codeforces.com/contest/625/problem/B) - 1:00 hora
 
-- Solução: [Expression Correction](Soluções/CodeForces/Busca/War%20of%20the%20Corporations/solution.cpp)
+- Solução: [War of the Corporations](Soluções/CodeForces/Busca/War%20of%20the%20Corporations/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/625/problem/B) | [PDF](Soluções/CodeForces/Busca/War%20of%20the%20Corporations/Problem%20-%20B%20-%20Codeforces.pdf)
 - Temática e dificuldade: Algoritimos Gulosos e  KMP - médio
 
@@ -254,7 +254,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 10/06: [CF 432D - Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - 1:00 hora
 
-- Solução: [Expression Correction](Soluções/CodeForces/Busca/Prefixes%20and%20Suffixes/solution.cpp)
+- Solução: [Prefixes and Suffixes](Soluções/CodeForces/Busca/Prefixes%20and%20Suffixes/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/432/problem/D) | [PDF](Soluções/CodeForces/Busca/Prefixes%20and%20Suffixes/Problem%20-%20432D%20-%20Codeforces.pdf)
 - Temática e dificuldade: Busca por prefixos e  KMP - médio
 
