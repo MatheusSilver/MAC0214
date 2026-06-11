@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 65:30 horas
+## Tempo total: 66:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -269,6 +269,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Good Substrings](Soluções/CodeForces/Busca/Good%20Substrings/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/17/problem/E) | [PDF](Soluções/CodeForces/Busca/Good%20Substrings/Problem%20-%20D%20-%20Codeforces.pdf)
 - Temática e dificuldade: Busca em Strings e Hash - médio
+
+## 10/06: [CF 580E - Kefa and Watch](https://codeforces.com/contest/580/problem/E) - 1:00 hora
+
+- Solução: [Kefa and Watch](Soluções/CodeForces/Busca/Kefa%20and%20Watch/solution.cpp)
+- Enunciado: [Online](https://codeforces.com/contest/580/problem/E) | [PDF](Soluções/CodeForces/Busca/Kefa%20and%20Watch/Problem%20-%20580E%20-%20Codeforces.pdf)
+- Temática e dificuldade: Segment Tree e Hash - Difícil
 
 <!-- # Template para registro de atividades
 
