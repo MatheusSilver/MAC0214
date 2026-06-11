@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 64:30 horas
+## Tempo total: 65:30 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -263,6 +263,12 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Solução: [Palisection](Soluções/CodeForces/Busca/Palisection/solution.cpp)
 - Enunciado: [Online](https://codeforces.com/contest/17/problem/E) | [PDF](Soluções/CodeForces/Busca/Palisection/Problem%20-%20E%20-%20Codeforces.pdf)
 - Temática e dificuldade: Busca por prefixos em Strings - difícil
+
+## 10/06: [CF 271D - Good Substrings](https://codeforces.com/contest/17/problem/E) - 1:00 hora
+
+- Solução: [Good Substrings](Soluções/CodeForces/Busca/Good%20Substrings/solution.cpp)
+- Enunciado: [Online](https://codeforces.com/contest/17/problem/E) | [PDF](Soluções/CodeForces/Busca/Good%20Substrings/Problem%20-%20D%20-%20Codeforces.pdf)
+- Temática e dificuldade: Busca em Strings e Hash - médio
 
 <!-- # Template para registro de atividades
 
