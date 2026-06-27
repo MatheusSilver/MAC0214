@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 70:40 horas
+## Tempo total: 73:10 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -285,6 +285,8 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Temática e dificuldade: Geometria e Two Pointers - Médio
 
 ## 27/06: [Beginner Contest 464](https://atcoder.jp/contests/abc464) - 1:40 horas
+
+## 27/06: [Codeforces Round 1105 (Div. 2)](https://codeforces.com/contests/2240) - 2:30 horas
 
 <!-- # Template para registro de atividades
 
