@@ -10,7 +10,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## Registro de Horas das Atividades
 
-## Tempo total: 80:10 horas
+## Tempo total: 82:10 horas
 
 ## 14/03: [Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1:30 horas
 
@@ -293,6 +293,9 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 ## 28/06: [Regular Contest 223](https://atcoder.jp/contests/arc223) - 2:00 horas
 - Este contest foi ridiculamente mais dificil que os outros, e bem mais matemático
 - O que mais fugiu do inituito desta AEX.
+
+## 28/06: [Codeforces Round 1106 (Div. 2)](https://codeforces.com/contests/2238) - 2:00 horas
+- COM TEMA DE JOGUINHOS MELHOR CONTEST DE TODOS OS TEMPOS!!!
 
 <!-- # Template para registro de atividades
 
