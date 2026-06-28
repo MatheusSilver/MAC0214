@@ -276,7 +276,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 - Enunciado: [Online](https://codeforces.com/contest/580/problem/E) | [PDF](Soluções/CodeForces/Busca/Kefa%20and%20Watch/Problem%20-%20580E%20-%20Codeforces.pdf)
 - Temática e dificuldade: Segment Tree e Hash - Difícil
 
-## 28/03: [Biweekly Contest 185](https://leetcode.com/contest/biweekly-contest-185/) - 1:30 horas
+## 20/06: [Biweekly Contest 185](https://leetcode.com/contest/biweekly-contest-185/) - 1:30 horas
 
 ## 27/06: [LeetCode 11 - Container with Most Water](https://leetcode.com/problems/container-with-most-water/) - 1:00 hora
 
@@ -288,7 +288,7 @@ Repositório de acompanhamento e depósito de soluções e estudos para a Marato
 
 ## 27/06: [Codeforces Round 1105 (Div. 2)](https://codeforces.com/contests/2240) - 2:30 horas
 
-## 27/04: [USP Try-outs 2024 - Grupo](https://codeforces.com/gym/105297) - 5:00 horas
+## 27/06: [USP Try-outs 2024 - Grupo](https://codeforces.com/gym/105297) - 5:00 horas
 
 ## 28/06: [Regular Contest 223](https://atcoder.jp/contests/arc223) - 2:00 horas
 - Este contest foi ridiculamente mais dificil que os outros, e bem mais matemático
